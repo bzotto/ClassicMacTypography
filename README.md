@@ -1,4 +1,4 @@
-### Classic Macintosh Bitmap Typography
+## Classic Macintosh Bitmap Typography
 
 This is a small set of Objective-C classes that can be used for parsing font data from the original Macintosh,
 and for simple rendering of bitmap text using those fonts. 
@@ -26,3 +26,9 @@ you want to use it for anything other than hacking on, please revise it accordin
 
 	// Get a PNG out of it
 	NSData * pngData = [renderer bitmapImageAsPNGDataWithScale:15 showingGrid:YES];
+
+### Sample
+
+Here's the complete specimen for Susan Kare's San Francisco typeface:
+
+![San Francisco 18](https://github.com/bzotto/ClassicMacTypography/raw/master/SanFrancisco18.png)
