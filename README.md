@@ -1,4 +1,4 @@
-#Classic Macintosh Bitmap Typography
+### Classic Macintosh Bitmap Typography
 
 This is a small set of Objective-C classes that can be used for parsing font data from the original Macintosh,
 and for simple rendering of bitmap text using those fonts. 
@@ -11,7 +11,7 @@ The `BitmapFont` class does the parsing into a usable object, and `SimpleBitmapR
 It was not designed or written with performance or security concerns in mind, and if 
 you want to use it for anything other than hacking on, please revise it accordingly.
 
-###Usage
+### Usage
 
 	// Load FONT resource containing Chicago:
 	NSData * data = [NSData dataWithContentsOfFile:@"00012"]; 
