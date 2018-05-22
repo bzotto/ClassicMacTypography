@@ -31,4 +31,4 @@ you want to use it for anything other than hacking on, please revise it accordin
 
 Here's the complete specimen for Susan Kare's San Francisco typeface:
 
-![San Francisco 18](https://github.com/bzotto/ClassicMacTypography/raw/master/SanFrancisco18.png)
+![San Francisco 18](https://raw.githubusercontent.com/bzotto/ClassicMacTypography/master/specimens/San%20Francisco%2018.png)
