@@ -19,6 +19,7 @@ you want to use it for anything other than hacking on, please revise it accordin
 
 	// Create a renderer
 	SimpleBitmapRenderer * renderer = [[SimpleBitmapRenderer alloc] initWithSize:UIntSizeMake(300, 200)];
+	renderer.currentFont = font;
 
 	// Write some text
 	NSString * text = @"Hello.";
